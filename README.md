@@ -13,7 +13,7 @@
 
 > #terraform output -json  ##--> Post completion to see login details  
 
-<p style="text-align: center;"><b>PRE-REQUISITES</b></p>
+*********************************PRE-REQUISITES***************************************
 
 * 1: You will have to first allocate an ip address in the zone where you will be creating your rancher server  
 
