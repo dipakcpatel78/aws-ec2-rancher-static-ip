@@ -1,5 +1,5 @@
-# aws-ec2-rancher-static-ip
-*                                **USAGE**  
+# AWS-EC2-RANCHER-STATIC-IP
+#<p style="text-align: center;"> **USAGE**  </p>
 
 > #git clone https://github.com/bashlion/aws-ec2-rancher-static-ip.git  
 
@@ -13,7 +13,7 @@
 
 > #terraform output -json  ##--> Post completion to see login details  
 
-#                            **PRE-REQUISITES**  
+#<p style="text-align: center;">  **PRE-REQUISITES**   </p>
 
 * 1: You will have to first allocate an ip address in the zone where you will be creating your rancher server  
 
@@ -23,7 +23,7 @@
 
      (If you do not have it or do not wish to do it then you will have to configure your variable to include your AWS Credentials)  
 
-#                               **SUMMARY**  
+#<p style="text-align: center;">  **SUMMARY**  </p>
 
 * This Code will help you create rancher nodes on aws with static ip.  
 
