@@ -1,5 +1,5 @@
 # aws-ec2-rancher-static-ip
-#                                **USAGE**  
+*                                **USAGE**  
 
 > #git clone https://github.com/bashlion/aws-ec2-rancher-static-ip.git  
 
