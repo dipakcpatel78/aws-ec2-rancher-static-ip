@@ -34,6 +34,6 @@
 
   *  You may want to modify certain other parameters as well as per your needs like version of cert-manager, rancher and rke2 which you can do in the variable file marked with the tag as `#Can Modify`  
 
-  *  To Modify rke2 version modify `modules/rancher/files/install_rke2.sh file` -#Comment: Will modify and add it in variables in next edit.-  
+  *  To Modify rke2 version modify `modules/rancher/files/install_rke2.sh file` _#Comment: Will modify and add it in variables in next edit._  
 
   *  There is no need to modify anything else in other files.  
