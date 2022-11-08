@@ -44,7 +44,6 @@ variable "pub_ip" {
   description = "ip"
   default     = "1.1.1.1" ##Modify this to your public ip
 }
-
 locals {
   node_username = "ec2-user"
 }
