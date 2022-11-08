@@ -7,30 +7,30 @@ variable "aws_region" {
 variable "prefix" {
   type        = string
   description = "Prefix added to names of all resources"
-  default     = "demo-labs"
+  default     = "demo-labs" ##Can Modify
 }
 
 variable "tag_owner" {
   type        = string
   description = "Owner for the resource (as tag)"
-  default     = "demolab-rsrc"
+  default     = "demolab-rsrc" ##Can modify
 }
 
 variable "linux_instance_type" {
   type        = string
   description = "Instance type used for all EC2 instances"
-  default     = "t3.xlarge"
+  default     = "t3.xlarge" ##Can Modify
 }
 variable "rancher_version" {
   type        = string
   description = "Rancher server version (format: v0.0.0)"
-  default     = "v2.6.6"
+  default     = "v2.6.6" ## Can Modify
 }
 
 variable "cert_manager_version" {
   type        = string
   description = "Version of cert-manager to install alongside Rancher (format: 0.0.0)"
-  default     = "1.7.1"
+  default     = "1.7.1" ## Can Modify
 }
 
 variable "allocationid" {
