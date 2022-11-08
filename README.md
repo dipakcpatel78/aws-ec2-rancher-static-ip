@@ -2,7 +2,9 @@
 
 **USAGE**
 
-> #git clone https://github.com/bashlion/aws-ec2-rancher-static-ip.git  
+> #git clone https://github.com/bashlion/aws-ec2-rancher-static-ip.git 
+
+> #cd aws-ec2-rancher-static-ip 
 
 > #terraform init  
 
